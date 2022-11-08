@@ -1,0 +1,49 @@
+@media screen and (min-width:1024px){
+    
+body{
+    background-image: url(https://fondosmil.com/fondo/7228.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.container{
+    width: 50rem;
+    background-color: rgba(255, 235, 205, 0.726);
+    margin-top: 20rem;
+    border-radius: 40px;
+    
+}
+button{
+    width: 15rem;
+
+    height: 5rem;
+}
+
+select{
+    text-align: center;
+}
+}
+@media screen and (min-width:320px) and (max-width:1023px){
+    
+    body{
+        background-image: url(https://fondosmil.com/fondo/7228.jpg);
+        background-repeat: no-repeat;
+        text-align: center;
+    }
+    .container{
+        width: 19rem;
+        background-color: rgba(255, 235, 205, 0.726);
+        margin-top: 20rem;
+        border-radius: 40px;
+        
+    }
+    button{
+        width: 15rem;
+    
+        height: 5rem;
+    }
+    
+    select{
+        text-align: center;
+    }
+    }
+    
